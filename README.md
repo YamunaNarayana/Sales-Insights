@@ -2,7 +2,7 @@
 
 #**Overview** 
 
-Welcome to the repository for the Power BI Sales Insights Mini-Project. This project is an exciting exploration of transforming data into decisive business intelligence, focusing on sales analytics. The README provides a snapshot of the project, key takeaways, dashboard highlights, enhanced skills, and expressions of gratitude.
+Welcome to the repository for the Power BI Sales Insights Project. This project is an exciting exploration of transforming data into decisive business intelligence, focusing on sales analytics. The README provides a snapshot of the project, key takeaways, dashboard highlights, enhanced skills.
 
 #Project Snapshot
 
@@ -33,5 +33,6 @@ This project has significantly enhanced various skills crucial for effective dat
 **Project Management Tools:** Ensuring seamless project execution.
 
 **Important links:**
+
 _[Live Dashboard](https://www.novypro.com/project/sales-insight-12)_
 _[Linkedin post](https://www.linkedin.com/posts/yamuna-n-0132a0185_sales-insights-activity-7163594503185006592-52Gn?utm_source=share&utm_medium=member_desktop)_
